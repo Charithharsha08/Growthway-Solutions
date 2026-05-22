@@ -238,12 +238,12 @@ export default function CareersPage() {
             ))} */}
           </div>
 
-          <div className="mt-12 text-center max-w-lg mx-auto p-6 rounded-2xl bg-[#f4faf6]/30 dark:bg-[#07190f]/10 border border-emerald-100 dark:border-emerald-900/10">
-            <h4 className="font-bold text-emerald-950 dark:text-white mb-2">Don&apos;t See Your Role?</h4>
-            <p className="text-xs text-foreground/70 leading-relaxed">
-              We are constantly seeking CPA leads, operational analysts, and software developers. Send your cover portfolio directly to <a href="mailto:careers@growthwaysolutions.ca" className="text-accent font-semibold hover:underline">careers@growthwaysolutions.ca</a>.
-            </p>
-          </div>
+          {/*<div className="mt-12 text-center max-w-lg mx-auto p-6 rounded-2xl bg-[#f4faf6]/30 dark:bg-[#07190f]/10 border border-emerald-100 dark:border-emerald-900/10">*/}
+          {/*  <h4 className="font-bold text-emerald-950 dark:text-white mb-2">Don&apos;t See Your Role?</h4>*/}
+          {/*  <p className="text-xs text-foreground/70 leading-relaxed">*/}
+          {/*    We are constantly seeking CPA leads, operational analysts, and software developers. Send your cover portfolio directly to <a href="mailto:careers@growthwaysolutions.ca" className="text-accent font-semibold hover:underline">careers@growthwaysolutions.ca</a>.*/}
+          {/*  </p>*/}
+          {/*</div>*/}
         </div>
       </section>
 
